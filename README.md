@@ -111,7 +111,3 @@ Typical event types include:
 - Backend dependencies: `Back/requirements.txt`
 - Frontend dependencies: `Front/package.json`
 - Root `requirements.txt` forwards to backend requirements for convenience.
-
-## License
-
-No explicit license file is currently included in this repository. Add a `LICENSE` file if you plan to distribute the project.
